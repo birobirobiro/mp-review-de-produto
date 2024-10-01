@@ -33,8 +33,8 @@ Dentro da pasta `components/` você encontrará o arquivo `ReviewSection.jsx` on
 
 Vamos utilizar a API fornecida pelo Codante para gerenciar as avaliações. Os seguintes endpoints estarão disponíveis:
 
-- `GET https://apis.codante.io/api/reviews`: Retorna todas as avaliações registradas para o produto.
-- `POST https://apis.codante.io/api/reviews`: Adiciona uma nova avaliação ao banco de dados.
+- `GET https://apis.codante.io/api/reviews-api/reviews`: Retorna todas as avaliações registradas para o produto.
+- `POST https://apis.codante.io/api/reviews-api/reviews`: Adiciona uma nova avaliação ao banco de dados.
 
 Acesse a documentação da API em: 🔗 [https://docs.apis.codante.io](https://docs.apis.codante.io)
 
